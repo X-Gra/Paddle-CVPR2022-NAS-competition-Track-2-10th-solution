@@ -1,7 +1,7 @@
 # Paddle CVPR 2022 NAS competition track 2: Performance Estimation
 Repo for Paddle CVPR 2022 NAS track 2 performance estimation, [link](https://aistudio.baidu.com/aistudio/competition/detail/150/0/introduction).
 
-This is the solution implemented in Paddle, Pytorch version [link](https://github.com/AlbertiPot/CVPR2022-NAS-competition-Track-2-10th-solution). Since there is some difference between seed in Pytorch and that in Paddle, the reproduce results should be subject to the Pytorch version. 
+This is the solution implemented in Paddle, Pytorch version is in [link](https://github.com/AlbertiPot/CVPR2022-NAS-competition-Track-2-10th-solution). Since there is some difference between seed in Pytorch and that in Paddle, the reproduce results should be subject to the Pytorch version. 
 
 There are log files and corresponding pictures recorded by Paddle VisualDL in log folder.
 
